@@ -1,0 +1,14 @@
+/* Change the page background color to dark gray */
+body {
+    background-color: darkgray;
+}
+
+/* Change the page text color to light gray */
+body, p {
+    color: lightgray;
+}
+
+/* Change the H1 text color to white */
+h1 {
+    color: white;
+}
