@@ -1,4 +1,11 @@
-.hello-world {
-  color: magenta;
-  font-size: 24px;
+.Inline {
+  display: inline;
+}
+
+.Block {
+  display: block;
+}
+
+.Inline-Block {
+  display: inline-block;
 }
